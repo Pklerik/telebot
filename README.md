@@ -1,2 +1,2 @@
 # telebot
-Telegramm bot
+Telegram bot
